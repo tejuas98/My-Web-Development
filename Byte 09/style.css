@@ -1,0 +1,13 @@
+/* to target red use . */
+.red {
+    color: crimson;
+}
+
+.dj-alok {
+    background-color: blueviolet;
+}
+
+/* To target id use # */
+#firstdev {
+    background-color: aqua;
+}
